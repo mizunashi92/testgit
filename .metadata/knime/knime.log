@@ -1,0 +1,7 @@
+2019-08-05 15:43:36,098 : WARN  : main :  : Node : List Remote Files : 3:1 : No settings available
+2019-08-05 15:44:28,472 : WARN  : KNIME-Worker-4 :  : GitFetchNodeModel : Git Fetch : 3:2 : There is at least one repository which could not be pulled successfully.
+2019-08-05 15:44:29,301 : WARN  : KNIME-Worker-5 :  : GitPullNodeModel : Git Pull : 3:3 : There is at least one repository which could not be pulled successfully.
+2019-08-05 15:45:12,714 : WARN  : KNIME-Worker-4 :  : GitFetchNodeModel : Git Fetch : 3:2 : There is at least one repository which could not be pulled successfully.
+2019-08-05 15:45:13,391 : WARN  : KNIME-Worker-5 :  : GitPullNodeModel : Git Pull : 3:3 : There is at least one repository which could not be pulled successfully.
+2019-08-05 15:52:37,087 : WARN  : Thread-27 :  : PythonKernel : Python Source : 0:1 : From https://github.com/mizunashi92/testgit
+2019-08-05 15:52:37,090 : WARN  : Thread-27 :  : PythonKernel : Python Source : 0:1 :    8f56dd2..8520af3  master     -> origin/master

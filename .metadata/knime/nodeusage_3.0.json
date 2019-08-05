@@ -1,0 +1,55 @@
+
+{
+    "version":"4.0.0.v201906260931",
+    "created":"2019-08-05 15:39",
+    "nodestats":{
+        "nodes":[
+            {
+                "id":"org.knime.base.node.io.tablecreator.TableCreator2NodeFactory#Table Creator",
+                "nrexecs":0,
+                "nrfails":0,
+                "exectime":0,
+                "nrcreated":1,
+                "successor":"n/a"
+            },
+            {
+                "id":"org.knime.base.filehandling.listdirectory.ListDirectoryNodeFactory#List Remote Files",
+                "nrexecs":2,
+                "nrfails":0,
+                "exectime":481,
+                "nrcreated":1,
+                "successor":"org.knime.scm.git.nodes.fetch.GitFetchNodeFactory#Git Fetch"
+            },
+            {
+                "id":"org.knime.scm.git.nodes.fetch.GitFetchNodeFactory#Git Fetch",
+                "nrexecs":2,
+                "nrfails":0,
+                "exectime":1730,
+                "nrcreated":1,
+                "successor":"org.knime.scm.git.nodes.pull.GitPullNodeFactory#Git Pull"
+            },
+            {
+                "id":"org.knime.scm.git.nodes.pull.GitPullNodeFactory#Git Pull",
+                "nrexecs":2,
+                "nrfails":0,
+                "exectime":1426,
+                "nrcreated":1,
+                "successor":"n/a"
+            }
+        ],
+        "metaNodes":{
+        },
+        "wrappedNodes":{
+        }
+    },
+    "uptime":514929,
+    "workflowsOpened":0,
+    "remoteWorkflowsOpened":0,
+    "workflowsImported":0,
+    "workflowsExported":0,
+    "launches":1,
+    "lastApplicationID":"org.knime.product.KNIME_APPLICATION",
+    "timeSinceLastStart":514929,
+    "crashes":0,
+    "properlyShutDown":true
+}
