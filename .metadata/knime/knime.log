@@ -5,3 +5,26 @@
 2019-08-05 15:45:13,391 : WARN  : KNIME-Worker-5 :  : GitPullNodeModel : Git Pull : 3:3 : There is at least one repository which could not be pulled successfully.
 2019-08-05 15:52:37,087 : WARN  : Thread-27 :  : PythonKernel : Python Source : 0:1 : From https://github.com/mizunashi92/testgit
 2019-08-05 15:52:37,090 : WARN  : Thread-27 :  : PythonKernel : Python Source : 0:1 :    8f56dd2..8520af3  master     -> origin/master
+2019-08-05 15:53:30,641 : WARN  : Thread-27 :  : PythonKernel : Python Source : 0:1 : warning: LF will be replaced by CRLF in .metadata/.plugins/de.mpicbg.knime.scripting.python/template_cache/tempFiles.index.
+2019-08-05 15:53:30,642 : WARN  : Thread-27 :  : PythonKernel : Python Source : 0:1 : The file will have its original line endings in your working directory
+2019-08-05 15:53:30,642 : WARN  : Thread-27 :  : PythonKernel : Python Source : 0:1 : warning: LF will be replaced by CRLF in .metadata/.plugins/de.mpicbg.knime.scripting.python/template_cache/template_7625120653260791644.txt.
+2019-08-05 15:53:30,642 : WARN  : Thread-27 :  : PythonKernel : Python Source : 0:1 : The file will have its original line endings in your working directory
+2019-08-05 15:53:30,642 : WARN  : Thread-27 :  : PythonKernel : Python Source : 0:1 : warning: LF will be replaced by CRLF in .metadata/.plugins/de.mpicbg.knime.scripting.python/template_cache/template_8268885457355921137.txt.
+2019-08-05 15:53:30,643 : WARN  : Thread-27 :  : PythonKernel : Python Source : 0:1 : The file will have its original line endings in your working directory
+2019-08-05 15:53:30,643 : WARN  : Thread-27 :  : PythonKernel : Python Source : 0:1 : warning: LF will be replaced by CRLF in .metadata/knime/nodeusage_3.0.json.
+2019-08-05 15:53:30,643 : WARN  : Thread-27 :  : PythonKernel : Python Source : 0:1 : The file will have its original line endings in your working directory
+2019-08-05 15:53:30,643 : WARN  : Thread-27 :  : PythonKernel : Python Source : 0:1 : warning: LF will be replaced by CRLF in git_push_wf/workflow.knime.
+2019-08-05 15:53:30,643 : WARN  : Thread-27 :  : PythonKernel : Python Source : 0:1 : The file will have its original line endings in your working directory
+2019-08-05 15:53:30,643 : WARN  : Thread-27 :  : PythonKernel : Python Source : 0:1 : warning: LF will be replaced by CRLF in rena_nounen/Table Creator (#1)/settings.xml.
+2019-08-05 15:53:30,644 : WARN  : Thread-27 :  : PythonKernel : Python Source : 0:1 : The file will have its original line endings in your working directory
+2019-08-05 15:53:30,644 : WARN  : Thread-27 :  : PythonKernel : Python Source : 0:1 : warning: LF will be replaced by CRLF in rena_nounen/workflow.knime.
+2019-08-05 15:53:30,644 : WARN  : Thread-27 :  : PythonKernel : Python Source : 0:1 : The file will have its original line endings in your working directory
+2019-08-05 15:53:30,644 : WARN  : Thread-27 :  : PythonKernel : Python Source : 0:1 : warning: LF will be replaced by CRLF in rena_nounen/workflow.svg.
+2019-08-05 15:53:30,644 : WARN  : Thread-27 :  : PythonKernel : Python Source : 0:1 : The file will have its original line endings in your working directory
+2019-08-05 15:53:32,596 : WARN  : Thread-27 :  : PythonKernel : Python Source : 0:1 : Vim: Warning: Output is not to a terminal
+2019-08-05 15:53:32,596 : WARN  : Thread-27 :  : PythonKernel : Python Source : 0:1 : Vim: Warning: Input is not from a terminal
+2019-08-05 15:56:29,664 : WARN  : Thread-32 :  : PythonKernel : Python Source : 0:1 : To https://github.com/mizunashi92/testgit.git
+2019-08-05 15:56:29,665 : WARN  : Thread-32 :  : PythonKernel : Python Source : 0:1 :    8520af3..42613d8  master -> master
+2019-09-09 15:08:01,468 : WARN  : Thread-14 :  : PythonKernel : Python Source : 0:1 : The system cannot find the path specified.
+2019-09-09 15:08:27,156 : WARN  : Thread-14 :  : PythonKernel : Python Source : 0:1 : The filename, directory name, or volume label syntax is incorrect.
+2019-09-09 15:18:53,736 : WARN  : KNIME-Worker-21 :  : Node : Python Source : 0:1 : Node created an empty data table.

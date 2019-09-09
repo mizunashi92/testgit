@@ -35,6 +35,22 @@
                 "exectime":1426,
                 "nrcreated":1,
                 "successor":"n/a"
+            },
+            {
+                "id":"org.knime.python2.nodes.source.Python2SourceNodeFactory#Python Source",
+                "nrexecs":1,
+                "nrfails":0,
+                "exectime":3809,
+                "nrcreated":3,
+                "successor":"n/a"
+            },
+            {
+                "id":"org.knime.base.node.io.extractcontextprop.ReadContextPropertyNodeFactory#Extract Context Properties",
+                "nrexecs":2,
+                "nrfails":0,
+                "exectime":4,
+                "nrcreated":0,
+                "successor":"org.knime.python2.nodes.source.Python2SourceNodeFactory#Python Source"
             }
         ],
         "metaNodes":{
@@ -42,14 +58,14 @@
         "wrappedNodes":{
         }
     },
-    "uptime":514929,
-    "workflowsOpened":0,
+    "uptime":16353576,
+    "workflowsOpened":4,
     "remoteWorkflowsOpened":0,
     "workflowsImported":0,
     "workflowsExported":0,
-    "launches":1,
+    "launches":5,
     "lastApplicationID":"org.knime.product.KNIME_APPLICATION",
-    "timeSinceLastStart":514929,
+    "timeSinceLastStart":79729,
     "crashes":0,
-    "properlyShutDown":true
+    "properlyShutDown":false
 }
