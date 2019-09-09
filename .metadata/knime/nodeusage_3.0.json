@@ -10,7 +10,7 @@
                 "nrfails":0,
                 "exectime":0,
                 "nrcreated":1,
-                "successor":"n/a"
+                "successor":"org.knime.python2.nodes.script.Python2ScriptNodeFactory#Python Script (1⇒1)"
             },
             {
                 "id":"org.knime.base.filehandling.listdirectory.ListDirectoryNodeFactory#List Remote Files",
@@ -51,6 +51,22 @@
                 "exectime":4,
                 "nrcreated":0,
                 "successor":"org.knime.python2.nodes.source.Python2SourceNodeFactory#Python Source"
+            },
+            {
+                "id":"org.knime.python2.nodes.script.Python2ScriptNodeFactory#Python Script (1⇒1)",
+                "nrexecs":0,
+                "nrfails":0,
+                "exectime":0,
+                "nrcreated":1,
+                "successor":"n/a"
+            },
+            {
+                "id":"org.knime.js.base.node.quickform.input.string.StringInputQuickFormNodeFactory#String Input",
+                "nrexecs":0,
+                "nrfails":0,
+                "exectime":0,
+                "nrcreated":1,
+                "successor":"n/a"
             }
         ],
         "metaNodes":{
@@ -58,14 +74,14 @@
         "wrappedNodes":{
         }
     },
-    "uptime":16353576,
-    "workflowsOpened":4,
+    "uptime":16619542,
+    "workflowsOpened":5,
     "remoteWorkflowsOpened":0,
     "workflowsImported":0,
     "workflowsExported":0,
     "launches":5,
     "lastApplicationID":"org.knime.product.KNIME_APPLICATION",
-    "timeSinceLastStart":79729,
+    "timeSinceLastStart":1409561,
     "crashes":0,
     "properlyShutDown":false
 }
