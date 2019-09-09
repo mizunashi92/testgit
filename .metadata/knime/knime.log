@@ -35,3 +35,15 @@
 2019-09-09 15:39:33,878 : WARN  : Thread-34 :  : PythonKernel : Python Source : 0:1 : Everything up-to-date
 2019-09-09 15:41:00,617 : WARN  : Thread-34 :  : PythonKernel : Python Source : 0:1 : Everything up-to-date
 2019-09-09 15:42:12,599 : WARN  : Thread-39 :  : PythonKernel : Python Source : 0:1 : Everything up-to-date
+2019-09-09 15:42:58,407 : WARN  : Thread-39 :  : PythonKernel : Python Source : 0:1 : warning: LF will be replaced by CRLF in .metadata/knime/nodeusage_3.0.json.
+2019-09-09 15:42:58,408 : WARN  : Thread-39 :  : PythonKernel : Python Source : 0:1 : The file will have its original line endings in your working directory
+2019-09-09 15:42:58,408 : WARN  : Thread-39 :  : PythonKernel : Python Source : 0:1 : warning: LF will be replaced by CRLF in rena_nounen/Table Creator (#1)/settings.xml.
+2019-09-09 15:42:58,408 : WARN  : Thread-39 :  : PythonKernel : Python Source : 0:1 : The file will have its original line endings in your working directory
+2019-09-09 15:42:58,408 : WARN  : Thread-39 :  : PythonKernel : Python Source : 0:1 : warning: LF will be replaced by CRLF in rena_nounen/workflow.knime.
+2019-09-09 15:42:58,408 : WARN  : Thread-39 :  : PythonKernel : Python Source : 0:1 : The file will have its original line endings in your working directory
+2019-09-09 15:42:58,408 : WARN  : Thread-39 :  : PythonKernel : Python Source : 0:1 : warning: LF will be replaced by CRLF in rena_nounen/workflow.svg.
+2019-09-09 15:42:58,408 : WARN  : Thread-39 :  : PythonKernel : Python Source : 0:1 : The file will have its original line endings in your working directory
+2019-09-09 15:42:58,408 : WARN  : Thread-39 :  : PythonKernel : Python Source : 0:1 : warning: LF will be replaced by CRLF in rena_nounen/Python Script _1_1_ (#2)/settings.xml.
+2019-09-09 15:42:58,408 : WARN  : Thread-39 :  : PythonKernel : Python Source : 0:1 : The file will have its original line endings in your working directory
+2019-09-09 15:43:06,475 : WARN  : Thread-39 :  : PythonKernel : Python Source : 0:1 : To https://github.com/mizunashi92/testgit.git
+2019-09-09 15:43:06,476 : WARN  : Thread-39 :  : PythonKernel : Python Source : 0:1 :    42613d8..56f3269  master -> master
